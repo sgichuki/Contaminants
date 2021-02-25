@@ -3,4 +3,4 @@ Mercury in fish is an important public health topic. Consumers are exposed to me
 
 ![Average Mercury in fish](avgfishconc_plot.png)
 ![Fish concentrations over the years](hgconc_violinplot.png)
-![]
+![Mercury in fish boxplot](boxplot_hginfish.png)
